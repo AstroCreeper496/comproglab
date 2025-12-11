@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int even = 0;
     int odd = 0;
@@ -16,7 +15,6 @@ int main(){
             }
             cout << "Enter an integer: ";
             cin >> a;
-            
         }
     cout << "#Even numbers = " << even <<"\n";
     cout << "#Odd numbers = " << odd <<"\n";
